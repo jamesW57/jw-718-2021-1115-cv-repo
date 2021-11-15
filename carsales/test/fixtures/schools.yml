@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  schoolname: MyString
+  datarange: MyString
+  degree: MyString
+  resume: one
+
+two:
+  schoolname: MyString
+  datarange: MyString
+  degree: MyString
+  resume: two
